@@ -225,15 +225,28 @@ const whatIDeliver = [
 
 ### `◈` Engineering Standards
 
-```
-◈  Lighthouse Performance   ████████████████████  99 / 100
-◈  Core Web Vitals          ████████████████████  All Green · LCP < 1.5s
-◈  TypeScript               ████████████████████  Strict · Zero any[]
-◈  Test Coverage            ██████████████████░░  92%+
-◈  Accessibility            ████████████████████  WCAG 2.1 AA compliant
-◈  Bundle Optimization      ████████████████████  Code-split · lazy-loaded
-◈  Code Quality             ████████████████████  PR-first · clean history
-```
+<br/>
+
+![Lighthouse](https://img.shields.io/badge/Lighthouse-99%20%2F%20100-FF6B35?style=flat-square&logo=lighthouse&logoColor=white&labelColor=1a1a2e)
+![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-All_Green_%E2%9C%93-22c55e?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1a1a2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict_%7C_Zero_any%5B%5D-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
+
+![Test Coverage](https://img.shields.io/badge/Test_Coverage-92%25%2B-a78bfa?style=flat-square&logo=vitest&logoColor=white&labelColor=1a1a2e)
+![Accessibility](https://img.shields.io/badge/Accessibility-WCAG_2.1_AA-38bdf8?style=flat-square&logo=accessibility&logoColor=white&labelColor=1a1a2e)
+![Bundle](https://img.shields.io/badge/Bundle_Size-Aggressively_Optimized-f59e0b?style=flat-square&logo=webpack&logoColor=white&labelColor=1a1a2e)
+![Code Quality](https://img.shields.io/badge/Code_Quality-PR--first_%7C_Clean_History-ec4899?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)
+
+<br/>
+
+| Metric | Score | Detail |
+|:--|:--:|:--|
+| ⚡ Lighthouse Performance | `99 / 100` | Measured across 3 production apps |
+| 🟢 Core Web Vitals | `All Green` | LCP < 1.5s · CLS < 0.1 · FID < 100ms |
+| 🔷 TypeScript | `Strict Mode` | Zero `any[]` policy enforced |
+| 🧪 Test Coverage | `92%+` | Unit + Integration + E2E |
+| ♿ Accessibility | `WCAG 2.1 AA` | Screen-reader tested |
+| 📦 Bundle Size | `Optimized` | Code-split · lazy-loaded · tree-shaken |
+| 🔀 Code Quality | `PR-first` | Conventional commits · clean git history |
 
 ---
 
