@@ -1,74 +1,81 @@
-<!-- ============================================================ -->
-<!--   RAMI — Senior Frontend & Web3 Engineer                    -->
-<!--   Theme: Crimson Black · Glassmorphism · Luxury Dark         -->
-<!-- ============================================================ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--  RAMI — Senior Frontend Engineer · GitHub Profile README     -->
+<!--  Replace YOUR_USERNAME with your actual GitHub username       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=RAMI&fontColor=ff2244&fontSize=90&fontAlignY=55&desc=Senior%20Frontend%20%26%20Web3%20Engineer&descAlignY=75&descSize=18&descColor=ffffff&animation=fadeIn&stroke=ff2244&strokeWidth=1" />
+```
+██████╗  █████╗ ███╗   ███╗██╗
+██╔══██╗██╔══██╗████╗ ████║██║
+██████╔╝███████║██╔████╔██║██║
+██╔══██╗██╔══██║██║╚██╔╝██║██║
+██║  ██║██║  ██║██║ ╚═╝ ██║██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
+```
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=FF2244&center=true&vCenter=true&width=650&lines=Senior+Frontend+Engineer+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Performance;Design+Systems+%C2%B7+UI+Architecture;Open+to+%F0%9F%87%A9%F0%9F%87%AA+Germany+%C2%B7+%F0%9F%87%A6%F0%9F%87%AA+Dubai+%C2%B7+Remote)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=2800&pause=600&color=FF2244&center=true&vCenter=true&width=700&lines=REACT+%C2%B7+NEXT.JS+%C2%B7+TYPESCRIPT;WEB3+%C2%B7+SOLIDITY+%C2%B7+SMART+CONTRACTS;DESIGN+SYSTEMS+%C2%B7+UI+ARCHITECTURE;BUILDING+THE+FUTURE+OF+THE+WEB)](https://git.io/typing-svg)
+![](https://img.shields.io/badge/Status-Available%20for%20Hire-ff2244?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/Focus-Frontend%20Engineering-ff2244?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/Open%20To-Germany%20%7C%20Dubai%20%7C%20Remote-ff2244?style=flat-square&labelColor=0a0a0a)
 
 </div>
-
-<br/>
 
 ---
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-## ◈ &nbsp;About Me
+### `◈` About
 
-```js
+```typescript
 const rami = {
-  role    : "Senior Frontend & Web3 Engineer",
-  focus   : ["React Ecosystems", "Web3 DApps",
-             "Design Systems", "Performance"],
-  web3    : ["Solidity", "ethers.js", "wagmi",
-             "BNB Chain", "Solana"],
-  shipped : ["NFT Minting Platforms", "DeFi UIs",
-             "GambleFi Casinos", "DApps"],
-  open_to : "🇩🇪 Berlin · Munich  |  🇦🇪 Dubai",
-  status  : "🔴 LIVE — Available for hire",
-};
+  title   : "Senior Frontend Engineer",
+  exp     : "5+ years",
+
+  core    : [
+    "React", "Next.js", "TypeScript"
+  ],
+  craft   : [
+    "Design Systems",
+    "Performance Optimization",
+    "Accessible UI (WCAG 2.1 AA)",
+    "Component Architecture",
+  ],
+
+  metrics : {
+    lighthouse : 99,
+    coverage   : "92%",
+    ts         : "strict",
+    vitals     : "all green",
+  },
+
+  location : "Open · DE · AE · Remote",
+} as const;
 ```
 
-<br/>
-
-> I architect **high-performance frontends** and **Web3 DApps**  
-> that scale — from NFT mints processing thousands of transactions  
-> to real-money casino platforms built on-chain.  
-> I own the full stack from **Figma to deployment**.
-
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
-## ◈ &nbsp;At a Glance
+### `◈` At a Glance
 
-<br/>
+&nbsp;
 
 | | |
-|---|---|
+|:--|:--|
 | 🚀 **Experience** | 5+ Years |
-| ⛓️ **Chains** | BNB · Solana · ETH |
+| ⚛️ **Core Stack** | React · Next.js · TS |
 | 🎨 **Design** | Figma → Pixel-perfect |
+| 📐 **Architecture** | Design Systems |
 | 🧪 **Testing** | Vitest · Playwright |
-| 📦 **Libs Published** | npm packages |
-| 🌍 **Languages** | EN · AR · DE (learning) |
 | ⚡ **Lighthouse** | 99 / 100 |
-| 🔒 **TypeScript** | Strict mode always |
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff2244&style=flat-square&label=Profile+Views)
+| ♿ **A11y** | WCAG 2.1 AA |
+| 🔒 **TypeScript** | Strict · Zero `any` |
+| 🌍 **Languages** | EN · AR · DE (learning) |
 
 </td>
 </tr>
@@ -76,179 +83,172 @@ const rami = {
 
 ---
 
-## ◈ &nbsp;Tech Arsenal
+### `◈` Tech Stack
 
-<br/>
+&nbsp;
 
-**⬡ &nbsp;Frontend Core**
+**Frontend Core**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FF2244)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=FF2244)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=FF2244)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=FF2244)
 ![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=FF2244)
 
-**⬡ &nbsp;Styling & Motion**
+**Styling & Motion**
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=FF2244)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=FF2244)
 ![Sass](https://img.shields.io/badge/Sass-0a0a0a?style=for-the-badge&logo=sass&logoColor=FF2244)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0a0a0a?style=for-the-badge&logo=framer&logoColor=FF2244)
 ![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=FF2244)
-![Three.js](https://img.shields.io/badge/Three.js-0a0a0a?style=for-the-badge&logo=three.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=FF2244)
 
-**⬡ &nbsp;Web3 & Blockchain**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FF2244)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-0a0a0a?style=for-the-badge&logo=ethereum&logoColor=FF2244)
-![Wagmi](https://img.shields.io/badge/Wagmi-0a0a0a?style=for-the-badge&logo=ethereum&logoColor=FF2244)
-![Web3.js](https://img.shields.io/badge/Web3.js-0a0a0a?style=for-the-badge&logo=web3.js&logoColor=FF2244)
-![IPFS](https://img.shields.io/badge/IPFS-0a0a0a?style=for-the-badge&logo=ipfs&logoColor=FF2244)
-
-**⬡ &nbsp;State & Data**
+**State & Data**
 
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0a0a0a?style=for-the-badge&logo=redux&logoColor=FF2244)
 ![React Query](https://img.shields.io/badge/React_Query-0a0a0a?style=for-the-badge&logo=reactquery&logoColor=FF2244)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0a0a0a?style=for-the-badge&logo=graphql&logoColor=FF2244)
 ![Zustand](https://img.shields.io/badge/Zustand-0a0a0a?style=for-the-badge&logo=react&logoColor=FF2244)
 
-**⬡ &nbsp;Infrastructure**
+**Testing & Quality**
+
+![Vitest](https://img.shields.io/badge/Vitest-0a0a0a?style=for-the-badge&logo=vitest&logoColor=FF2244)
+![Playwright](https://img.shields.io/badge/Playwright-0a0a0a?style=for-the-badge&logo=playwright&logoColor=FF2244)
+![Storybook](https://img.shields.io/badge/Storybook-0a0a0a?style=for-the-badge&logo=storybook&logoColor=FF2244)
+![Cypress](https://img.shields.io/badge/Cypress-0a0a0a?style=for-the-badge&logo=cypress&logoColor=FF2244)
+
+**Tooling & Infrastructure**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=FF2244)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=FF2244)
 ![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazon-aws&logoColor=FF2244)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=for-the-badge&logo=github-actions&logoColor=FF2244)
+![Webpack](https://img.shields.io/badge/Webpack-0a0a0a?style=for-the-badge&logo=webpack&logoColor=FF2244)
 
 ---
 
-## ◈ &nbsp;Featured Projects
+### `◈` What I Bring to Your Team
 
-<br/>
+```typescript
+// senior-frontend-engineer.ts
 
-### ⬡ &nbsp;LOGARITHM GAMES — NFT Mint Platform &nbsp;`BNB Chain`
-
-> **Role:** Lead Frontend & Smart Contract Engineer
-
-Built a full-stack NFT minting platform on BNB Chain from the ground up.  
-Integrated React with Solidity smart contracts, handling wallet connection,  
-NFT metadata storage via IPFS, and a live marketplace for buying/selling.
-
-```
-Stack  →  React · TypeScript · ethers.js · Solidity · IPFS · BNB Chain
-Scope  →  Wallet connect · NFT mint · Marketplace · Smart contract integration
-```
-
-🔴 **Live:** [LOGARITHM GAMES MintNFT](https://YOUR_LINK_HERE) &nbsp;|&nbsp; ⭐ [Source Code](https://github.com/YOUR_USERNAME/logarithm-games)
-
-<br/>
-
----
-
-### ⬡ &nbsp;SERA.CASINO — GambleFi Web3 Platform &nbsp;`Solana`
-
-> **Role:** Senior Frontend Engineer
-
-Solana-based GambleFi casino platform with provably fair games, futures  
-betting, daily faucet system, and no-KYC privacy-first architecture.  
-Real-time game state managed via WebSocket + on-chain verification.
-
-```
-Stack  →  React · TypeScript · Solana Web3.js · WebSocket · wagmi
-Scope  →  Casino games · Futures betting · Hash-seed provably fair · DeFi
-```
-
-🔴 **Live:** [sera.casino](https://sera.casino) &nbsp;|&nbsp; ⭐ [Source Code](https://github.com/YOUR_USERNAME/sera-casino)
-
-<br/>
-
----
-
-## ◈ &nbsp;GitHub Stats
-
-<br/>
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ff2244&icon_color=ff2244&text_color=ffffff&ring_color=ff2244" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff2244&text_color=ffffff&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0a0a0a&ring=ff2244&fire=ff2244&currStreakLabel=ff2244&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## ◈ &nbsp;Web3 Expertise
-
-<br/>
-
-```solidity
-// What I've shipped on-chain:
-
-contract RamisWeb3Stack {
-
-    string[] public chains     = ["BNB Chain", "Solana", "Ethereum", "Polygon"];
-    string[] public protocols  = ["ERC-721 NFT", "ERC-20 Token", "DEX Swap", "Staking"];
-    string[] public tooling    = ["Hardhat", "Foundry", "ethers.js", "wagmi", "web3.js"];
-    string[] public storage    = ["IPFS", "Arweave", "Pinata"];
-    string[] public wallets    = ["MetaMask", "WalletConnect", "Phantom", "Coinbase"];
-
-    function getSpecialty() public pure returns (string memory) {
-        return "High-performance DApp frontends that feel like Web2";
-    }
+interface EngineeringValue {
+  skill       : string;
+  proof       : string;
 }
+
+const whatIDeliver: EngineeringValue[] = [
+  {
+    skill : "Design System Architecture",
+    proof : "80+ component libraries · Storybook · full a11y",
+  },
+  {
+    skill : "Performance Engineering",
+    proof : "Lighthouse 99 · < 1.5s LCP · bundle obsession",
+  },
+  {
+    skill : "Scalable Frontend Architecture",
+    proof : "Micro-frontends · monorepos · clean code reviews",
+  },
+  {
+    skill : "Design-to-Code Excellence",
+    proof : "Figma → pixel-perfect in React/TypeScript",
+  },
+  {
+    skill : "Full Test Coverage",
+    proof : "92%+ · unit + E2E · CI/CD pipelines",
+  },
+];
+
+export default whatIDeliver;
 ```
 
 ---
 
-## ◈ &nbsp;Quality Standards
+### `◈` Featured Projects
 
-<br/>
+&nbsp;
+
+> #### 🔴 &nbsp; Project One — `[Your Project Name]`
+>
+> **Role:** Senior Frontend Engineer
+>
+> Short punchy description of what this does, the scale it operates at,
+> and the impact it had. Keep it 2–3 lines, results-focused.
+>
+> `React` `TypeScript` `Next.js` `Tailwind` `[Add more]`
+>
+> 🔗 **Live:** [yourproject.com](https://yourproject.com) &nbsp;·&nbsp; ⭐ [Source](https://github.com/YOUR_USERNAME/repo)
+
+&nbsp;
+
+> #### 🔴 &nbsp; LOGARITHM GAMES — NFT Mint Platform
+>
+> **Role:** Lead Frontend Engineer
+>
+> Built the complete frontend for a high-traffic NFT minting platform.
+> Integrated wallet connection, real-time mint status, and marketplace UI
+> with smooth animations and mobile-first responsive design.
+>
+> `React` `TypeScript` `ethers.js` `Tailwind` `IPFS`
+>
+> 🔗 **Live:** [Add link](https://yourlink.com) &nbsp;·&nbsp; ⭐ [Source](https://github.com/YOUR_USERNAME/repo)
+
+&nbsp;
+
+> #### 🔴 &nbsp; SERA.CASINO — Real-Time Gaming Platform
+>
+> **Role:** Senior Frontend Engineer
+>
+> High-performance real-time casino UI with sub-100ms UI updates via WebSocket,
+> complex game state management, and a design system built from scratch for
+> a privacy-first, no-KYC user experience.
+>
+> `React` `TypeScript` `WebSocket` `Redux Toolkit` `Framer Motion`
+>
+> 🔗 **Live:** [sera.casino](https://sera.casino) &nbsp;·&nbsp; ⭐ [Source](https://github.com/YOUR_USERNAME/repo)
+
+---
+
+### `◈` Engineering Standards
 
 ```
-◈  Lighthouse Score    ████████████████████  99 / 100
-◈  TypeScript          ████████████████████  Strict · Zero any[]
-◈  Test Coverage       ██████████████████░░  92%
-◈  Accessibility       ████████████████████  WCAG 2.1 AA
-◈  Core Web Vitals     ████████████████████  All Green
-◈  Bundle Size         ██████████████████░░  Obsessively optimized
-◈  Code Review         ████████████████████  PR-first · Clean git history
+◈  Lighthouse Performance   ████████████████████  99 / 100
+◈  Core Web Vitals          ████████████████████  All Green · LCP < 1.5s
+◈  TypeScript               ████████████████████  Strict · Zero any[]
+◈  Test Coverage            ██████████████████░░  92%+
+◈  Accessibility            ████████████████████  WCAG 2.1 AA compliant
+◈  Bundle Size              ████████████████████  Aggressively optimized
+◈  Code Quality             ████████████████████  PR-first · clean git history
 ```
 
 ---
 
-## ◈ &nbsp;Connect
-
-<br/>
+### `◈` Connect
 
 <div align="center">
+
+&nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=FF2244)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=FF2244)](https://YOUR_PORTFOLIO.com)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FF2244)](mailto:YOUR_EMAIL@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-0a0a0a?style=for-the-badge&logo=telegram&logoColor=FF2244)](https://t.me/YOUR_HANDLE)
-[![Twitter/X](https://img.shields.io/badge/X_(Twitter)-0a0a0a?style=for-the-badge&logo=x&logoColor=FF2244)](https://twitter.com/YOUR_HANDLE)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0a0a0a?style=for-the-badge&logo=dev.to&logoColor=FF2244)](https://dev.to/YOUR_USERNAME)
 
-<br/>
+&nbsp;
 
-**📍 Open to Senior / Lead roles in 🇩🇪 Germany · 🇦🇪 Dubai · Remote worldwide**
+**📍 Open to Senior / Lead Frontend roles · 🇩🇪 Germany · 🇦🇪 Dubai · Remote worldwide**
 
-</div>
+&nbsp;
 
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff2244&style=flat-square&label=Profile+Views)
+
+&nbsp;
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&fontSize=0" />
-
-*"Ship fast. Ship clean. Ship things that matter."*
+*" First, solve the problem. Then, write the code — beautifully. "*
 
 </div>
